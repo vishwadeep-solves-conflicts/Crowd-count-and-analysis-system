@@ -12,4 +12,18 @@ This project is all about analysis of the crowd count and responding with rush h
 
 =========================GUIDE TO USE==========================
 
-The project composes of two part
+The projectehas two parts that work independently:-
+      1)Entry-Exit(Polling-GUI)
+      2)RUN ME(Crowd-Aount-Analysis)
+
+The Polling GUI is designed such that it will record entry and exit of every individual entering a particular area. The output of this GUI is used by Crowd-Count-Analysis system to process the data and represent the  processed output in form of scatter graph. 
+
+
+
+
+
+
+
+
+
+PS:- The output is still raw. The project needs a lot of improve which I will keep updating here. Also, I am making a predicting system that will predict the rush hours depending on the analysis of Crowd-Count-Analysis system
